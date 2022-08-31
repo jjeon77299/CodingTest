@@ -1,2 +1,1 @@
-동아리에서 받은 문제들을 개시하는 장소입니다. <br>
-주로 Python을 사용하지만 다른 언어도 올라 올 수 있습니다.
+https://www.notion.so/940c2a54a59c4fa2a6887bb1dc4f9a5d?v=4b6d375180ab4aeb9ace5010f3413995
